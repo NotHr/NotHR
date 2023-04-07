@@ -1,4 +1,4 @@
-![[yurii-ray-all-open.gif]]
+![https://cdna.artstation.com/p/assets/images/images/058/100/038/original/yurii-ray-all-open.gif?1673381116]
 ### Hello, I am Harshith 🙋
 ----
 I am a Computer Science student (currently a freshmen) in Hyderabad, India. I make students life eaiser by making/providing  them the necessary content they need. I hope you find some thing useful.
