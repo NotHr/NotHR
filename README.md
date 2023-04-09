@@ -1,4 +1,4 @@
-<img src="" style="border-radius: 20px;" />
+<img src="./cover.gif" style="border-radius: 20px;" />
 ## Hello, I am Harshith 🙋
 
 I am a Computer Science student (currently a freshmen) in Hyderabad, India. I make students life eaiser by making/providing  them the necessary content they need. I hope you find some thing useful.
