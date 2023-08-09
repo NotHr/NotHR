@@ -10,4 +10,4 @@ I am still relatively new to coding (*3 years now*), but I aspire to gain more k
 
 Some of the technologies I use the most:
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,cpp,cloudflare,discord,bots,github,git,ts,md,nodejs)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cpp,cloudflare,bots,github,git,ts,md,go,nodejs)
